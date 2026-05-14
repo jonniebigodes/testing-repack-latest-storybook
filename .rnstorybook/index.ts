@@ -17,7 +17,7 @@ const StorybookUIRoot = view.getStorybookUI({
     getItem: AsyncStorage.getItem,
     setItem: AsyncStorage.setItem,
   },
-  CustomUIComponent: LiteUI,
+  //CustomUIComponent: LiteUI,
   //Required for Chromatic
   enableWebsockets: true,
   host: "react-native.capture.chromatic.com",

@@ -81,8 +81,10 @@ export default Repack.defineRspackConfig({
       STORYBOOK_ENABLED: JSON.stringify(storybookEnabled),
     }),
     new StorybookPlugin({
-      enabled: storybookEnabled,
-      websockets: 'auto',
+      // enabled: storybookEnabled,
+      enabled: true, // Test: Required for Chromatic, since it doesn't set the environment variable when building the app 
+      //websockets: 'auto',
+      websockets: true, //Test: Required for Chromatic, since it doesn't set the environment variable when building the app  
       liteMode: false,
     }),
   ],

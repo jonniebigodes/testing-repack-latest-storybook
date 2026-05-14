@@ -1,0 +1,6105 @@
+{
+  "stories": [
+    {
+      "storyId": "switch--off-horizontal",
+      "name": "Off Horizontal",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--off-vertical",
+      "name": "Off Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--on-horizontal",
+      "name": "On Horizontal",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--on-vertical",
+      "name": "On Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--disabled-off-horizontal",
+      "name": "Disabled Off Horizontal",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--disabled-off-vertical",
+      "name": "Disabled Off Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--disabled-on-horizontal",
+      "name": "Disabled On Horizontal",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--disabled-on-vertical",
+      "name": "Disabled On Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--small-off",
+      "name": "Small Off",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--small-off-vertical",
+      "name": "Small Off Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--small-on",
+      "name": "Small On",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--small-on-vertical",
+      "name": "Small On Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--large-off",
+      "name": "Large Off",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--large-off-vertical",
+      "name": "Large Off Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--large-on",
+      "name": "Large On",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--large-on-vertical",
+      "name": "Large On Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--no-label-off",
+      "name": "No Label Off",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--no-label-on",
+      "name": "No Label On",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--long-label-horizontal",
+      "name": "Long Label Horizontal",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--long-label-vertical",
+      "name": "Long Label Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--medium-on-horizontal",
+      "name": "Medium On Horizontal",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--medium-on-vertical",
+      "name": "Medium On Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--short-label",
+      "name": "Short Label",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--short-label-vertical",
+      "name": "Short Label Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "switch--no-label-on-vertical",
+      "name": "No Label On Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "component": {
+        "name": "Switch",
+        "csfId": "switch",
+        "displayName": "Switch",
+        "path": [
+          "Switch"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--default",
+      "name": "Default",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--four-digits",
+      "name": "Four Digits",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--six-digits",
+      "name": "Six Digits",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--eight-digits",
+      "name": "Eight Digits",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--with-value",
+      "name": "With Value",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--partial-value",
+      "name": "Partial Value",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--masked",
+      "name": "Masked",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--masked-partial",
+      "name": "Masked Partial",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--masked-six",
+      "name": "Masked Six",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--error",
+      "name": "Error",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--error-masked",
+      "name": "Error Masked",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--disabled",
+      "name": "Disabled",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--disabled-with-value",
+      "name": "Disabled With Value",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--disabled-masked",
+      "name": "Disabled Masked",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--small",
+      "name": "Small",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--medium",
+      "name": "Medium",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--large",
+      "name": "Large",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--small-masked",
+      "name": "Small Masked",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--large-masked",
+      "name": "Large Masked",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--empty",
+      "name": "Empty",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--one-digit",
+      "name": "One Digit",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--three-digits",
+      "name": "Three Digits",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--complete",
+      "name": "Complete",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--with-callback",
+      "name": "With Callback",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--six-digit-otp",
+      "name": "Six Digit OTP",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "pininput--six-digit-empty",
+      "name": "Six Digit Empty",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "component": {
+        "name": "PinInput",
+        "csfId": "pininput",
+        "displayName": "PinInput",
+        "path": [
+          "PinInput"
+        ]
+      }
+    },
+    {
+      "storyId": "example-page--default",
+      "name": "Default",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/pages/Page.stories.tsx",
+      "component": {
+        "name": "Example/Page",
+        "csfId": "example-page",
+        "displayName": "Page",
+        "path": [
+          "Example",
+          "Page"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--default",
+      "name": "Default",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--partially-filled",
+      "name": "Partially Filled",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--filled",
+      "name": "Filled",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--four-digit",
+      "name": "Four Digit",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--four-digit-empty",
+      "name": "Four Digit Empty",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--eight-digit",
+      "name": "Eight Digit",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--box-variant",
+      "name": "Box Variant",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--underline-variant",
+      "name": "Underline Variant",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--circle-variant",
+      "name": "Circle Variant",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--underline-empty",
+      "name": "Underline Empty",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--circle-empty",
+      "name": "Circle Empty",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--underline-partial",
+      "name": "Underline Partial",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--circle-partial",
+      "name": "Circle Partial",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--small-size",
+      "name": "Small Size",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--medium-size",
+      "name": "Medium Size",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--large-size",
+      "name": "Large Size",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--small-empty",
+      "name": "Small Empty",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--large-empty",
+      "name": "Large Empty",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--small-underline",
+      "name": "Small Underline",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--large-circle",
+      "name": "Large Circle",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--error-empty",
+      "name": "Error Empty",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--error-filled",
+      "name": "Error Filled",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--error-partial",
+      "name": "Error Partial",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--error-underline",
+      "name": "Error Underline",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--error-circle",
+      "name": "Error Circle",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--success-box",
+      "name": "Success Box",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--success-underline",
+      "name": "Success Underline",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--success-circle",
+      "name": "Success Circle",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--success-large",
+      "name": "Success Large",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--loading-partial",
+      "name": "Loading Partial",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--loading-empty",
+      "name": "Loading Empty",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--disabled-empty",
+      "name": "Disabled Empty",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--disabled-filled",
+      "name": "Disabled Filled",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--disabled-underline",
+      "name": "Disabled Underline",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--masked-filled",
+      "name": "Masked Filled",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--masked-partial",
+      "name": "Masked Partial",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--masked-error",
+      "name": "Masked Error",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--masked-success",
+      "name": "Masked Success",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--masked-disabled",
+      "name": "Masked Disabled",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--masked-circle",
+      "name": "Masked Circle",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--masked-underline-large",
+      "name": "Masked Underline Large",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--alphanumeric-empty",
+      "name": "Alphanumeric Empty",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--alphanumeric-filled",
+      "name": "Alphanumeric Filled",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--alphanumeric-partial",
+      "name": "Alphanumeric Partial",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--alphanumeric-error",
+      "name": "Alphanumeric Error",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--alphanumeric-masked",
+      "name": "Alphanumeric Masked",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--alphanumeric-four-char",
+      "name": "Alphanumeric Four Char",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--grouped-default-separator",
+      "name": "Grouped Default Separator",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--grouped-empty",
+      "name": "Grouped Empty",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--grouped-partial",
+      "name": "Grouped Partial",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--grouped-dash-separator",
+      "name": "Grouped Dash Separator",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--grouped-dot-separator",
+      "name": "Grouped Dot Separator",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--grouped-slash-separator",
+      "name": "Grouped Slash Separator",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--grouped-pairs-of-2",
+      "name": "Grouped Pairs Of 2",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--grouped-alphanumeric",
+      "name": "Grouped Alphanumeric",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--grouped-underline",
+      "name": "Grouped Underline",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--grouped-circle",
+      "name": "Grouped Circle",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--grouped-large",
+      "name": "Grouped Large",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--grouped-error",
+      "name": "Grouped Error",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--grouped-success",
+      "name": "Grouped Success",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--sms-verification",
+      "name": "SMS Verification",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--email-verification",
+      "name": "Email Verification",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--two-factor-auth",
+      "name": "Two Factor Auth",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--invalid-code-error",
+      "name": "Invalid Code Error",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--verified-success",
+      "name": "Verified Success",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--verifying-loading",
+      "name": "Verifying Loading",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--grouped-sms-code",
+      "name": "Grouped SMS Code",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--alphanumeric-redemption-code",
+      "name": "Alphanumeric Redemption Code",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--narrow-container",
+      "name": "Narrow Container",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--wide-container",
+      "name": "Wide Container",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--all-sizes-comparison",
+      "name": "All Sizes Comparison",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--all-variants-comparison",
+      "name": "All Variants Comparison",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "otpinput--all-states-comparison",
+      "name": "All States Comparison",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "component": {
+        "name": "OTPInput",
+        "csfId": "otpinput",
+        "displayName": "OTPInput",
+        "path": [
+          "OTPInput"
+        ]
+      }
+    },
+    {
+      "storyId": "example-header--logged-in",
+      "name": "Logged In",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Header/Header.stories.tsx",
+      "component": {
+        "name": "Example/Header",
+        "csfId": "example-header",
+        "displayName": "Header",
+        "path": [
+          "Example",
+          "Header"
+        ]
+      }
+    },
+    {
+      "storyId": "example-header--logged-out",
+      "name": "Logged Out",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Header/Header.stories.tsx",
+      "component": {
+        "name": "Example/Header",
+        "csfId": "example-header",
+        "displayName": "Header",
+        "path": [
+          "Example",
+          "Header"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--default",
+      "name": "Default",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--search-variant",
+      "name": "Search Variant",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--error-variant",
+      "name": "Error Variant",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--offline-variant",
+      "name": "Offline Variant",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--small-size",
+      "name": "Small Size",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--medium-size",
+      "name": "Medium Size",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--large-size",
+      "name": "Large Size",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--with-action",
+      "name": "With Action",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--with-action-search",
+      "name": "With Action Search",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--with-action-error",
+      "name": "With Action Error",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--with-action-offline",
+      "name": "With Action Offline",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--small-with-action",
+      "name": "Small With Action",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--large-with-action",
+      "name": "Large With Action",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--custom-icon-emoji",
+      "name": "Custom Icon Emoji",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--custom-icon-cart",
+      "name": "Custom Icon Cart",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--custom-icon-rocket",
+      "name": "Custom Icon Rocket",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--title-only",
+      "name": "Title Only",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--title-and-description",
+      "name": "Title And Description",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--long-title",
+      "name": "Long Title",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--long-description",
+      "name": "Long Description",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--no-icon-custom-empty",
+      "name": "No Icon Custom Empty",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--search-small-no-action",
+      "name": "Search Small No Action",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--error-large-with-action",
+      "name": "Error Large With Action",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--default-medium-full-content",
+      "name": "Default Medium Full Content",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--offline-large-no-action",
+      "name": "Offline Large No Action",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "emptystate--search-large-with-action",
+      "name": "Search Large With Action",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "component": {
+        "name": "EmptyState",
+        "csfId": "emptystate",
+        "displayName": "EmptyState",
+        "path": [
+          "EmptyState"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--default",
+      "name": "Default",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--with-value",
+      "name": "With Value",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--searchable",
+      "name": "Searchable",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--not-searchable",
+      "name": "Not Searchable",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--loading",
+      "name": "Loading",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--disabled",
+      "name": "Disabled",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--disabled-with-value",
+      "name": "Disabled With Value",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--with-disabled-options",
+      "name": "With Disabled Options",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--empty-options",
+      "name": "Empty Options",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--single-option",
+      "name": "Single Option",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--many-options",
+      "name": "Many Options",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--long-labels",
+      "name": "Long Labels",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--countries",
+      "name": "Countries",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--custom-placeholder",
+      "name": "Custom Placeholder",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--long-placeholder",
+      "name": "Long Placeholder",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--with-custom-render",
+      "name": "With Custom Render",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--searchable-with-icons",
+      "name": "Searchable With Icons",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--pre-selected-value",
+      "name": "Pre Selected Value",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--all-options-disabled",
+      "name": "All Options Disabled",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--mixed-disabled",
+      "name": "Mixed Disabled",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--short-labels",
+      "name": "Short Labels",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--numeric-labels",
+      "name": "Numeric Labels",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--with-callback",
+      "name": "With Callback",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--different-sizes",
+      "name": "Different Sizes",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "combobox--priority",
+      "name": "Priority",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "component": {
+        "name": "Combobox",
+        "csfId": "combobox",
+        "displayName": "Combobox",
+        "path": [
+          "Combobox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--unchecked-horizontal",
+      "name": "Unchecked Horizontal",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--unchecked-vertical",
+      "name": "Unchecked Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--checked-horizontal",
+      "name": "Checked Horizontal",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--checked-vertical",
+      "name": "Checked Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--disabled-unchecked-horizontal",
+      "name": "Disabled Unchecked Horizontal",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--disabled-unchecked-vertical",
+      "name": "Disabled Unchecked Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--disabled-checked-horizontal",
+      "name": "Disabled Checked Horizontal",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--disabled-checked-vertical",
+      "name": "Disabled Checked Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--small-unchecked",
+      "name": "Small Unchecked",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--small-unchecked-vertical",
+      "name": "Small Unchecked Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--small-checked",
+      "name": "Small Checked",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--small-checked-vertical",
+      "name": "Small Checked Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--large-unchecked",
+      "name": "Large Unchecked",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--large-unchecked-vertical",
+      "name": "Large Unchecked Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--large-checked",
+      "name": "Large Checked",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--large-checked-vertical",
+      "name": "Large Checked Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--no-label-unchecked",
+      "name": "No Label Unchecked",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--no-label-checked",
+      "name": "No Label Checked",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--long-label-horizontal",
+      "name": "Long Label Horizontal",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--long-label-vertical",
+      "name": "Long Label Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--medium-checked-horizontal",
+      "name": "Medium Checked Horizontal",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--medium-checked-vertical",
+      "name": "Medium Checked Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--short-label",
+      "name": "Short Label",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--short-label-vertical",
+      "name": "Short Label Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "checkbox--no-label-checked-vertical",
+      "name": "No Label Checked Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "component": {
+        "name": "Checkbox",
+        "csfId": "checkbox",
+        "displayName": "Checkbox",
+        "path": [
+          "Checkbox"
+        ]
+      }
+    },
+    {
+      "storyId": "button--primary",
+      "name": "Primary",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--secondary",
+      "name": "Secondary",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--large",
+      "name": "Large",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--small",
+      "name": "Small",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--primary-small",
+      "name": "Primary Small",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--primary-medium",
+      "name": "Primary Medium",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--primary-large",
+      "name": "Primary Large",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--secondary-small",
+      "name": "Secondary Small",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--secondary-medium",
+      "name": "Secondary Medium",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--secondary-large",
+      "name": "Secondary Large",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--custom-background-red",
+      "name": "Custom Background Red",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--custom-background-green",
+      "name": "Custom Background Green",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--custom-background-purple",
+      "name": "Custom Background Purple",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--custom-background-orange",
+      "name": "Custom Background Orange",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--long-label",
+      "name": "Long Label",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--very-long-label",
+      "name": "Very Long Label",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--short-label",
+      "name": "Short Label",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--single-character",
+      "name": "Single Character",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--with-emoji",
+      "name": "With Emoji",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--with-multiple-emoji",
+      "name": "With Multiple Emoji",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--numeric-label",
+      "name": "Numeric Label",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--mixed-case-label",
+      "name": "Mixed Case Label",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--all-caps-label",
+      "name": "All Caps Label",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--lowercase-label",
+      "name": "Lowercase Label",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--small-custom-background",
+      "name": "Small Custom Background",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "button--large-custom-background",
+      "name": "Large Custom Background",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "component": {
+        "name": "Button",
+        "csfId": "button",
+        "displayName": "Button",
+        "path": [
+          "Button"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--default-circle",
+      "name": "Default Circle",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--default-circle-vertical",
+      "name": "Default Circle Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--small-circle",
+      "name": "Small Circle",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--small-circle-vertical",
+      "name": "Small Circle Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--medium-circle",
+      "name": "Medium Circle",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--medium-circle-vertical",
+      "name": "Medium Circle Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--large-circle",
+      "name": "Large Circle",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--large-circle-vertical",
+      "name": "Large Circle Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--x-large-circle",
+      "name": "X Large Circle",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--x-large-circle-vertical",
+      "name": "X Large Circle Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--square-small",
+      "name": "Square Small",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--square-small-vertical",
+      "name": "Square Small Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--square-medium",
+      "name": "Square Medium",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--square-medium-vertical",
+      "name": "Square Medium Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--rounded-small",
+      "name": "Rounded Small",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--rounded-small-vertical",
+      "name": "Rounded Small Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--rounded-medium",
+      "name": "Rounded Medium",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--rounded-medium-vertical",
+      "name": "Rounded Medium Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--custom-color",
+      "name": "Custom Color",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--custom-color-vertical",
+      "name": "Custom Color Vertical",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--green-background",
+      "name": "Green Background",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--purple-background",
+      "name": "Purple Background",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--single-letter",
+      "name": "Single Letter",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--three-letters",
+      "name": "Three Letters",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    },
+    {
+      "storyId": "avatar--orange-background",
+      "name": "Orange Background",
+      "fileName": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "component": {
+        "name": "Avatar",
+        "csfId": "avatar",
+        "displayName": "Avatar",
+        "path": [
+          "Avatar"
+        ]
+      }
+    }
+  ],
+  "json": [
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--off-horizontal",
+      "name": "Off Horizontal",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--off-vertical",
+      "name": "Off Vertical",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--on-horizontal",
+      "name": "On Horizontal",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--on-vertical",
+      "name": "On Vertical",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--disabled-off-horizontal",
+      "name": "Disabled Off Horizontal",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--disabled-off-vertical",
+      "name": "Disabled Off Vertical",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--disabled-on-horizontal",
+      "name": "Disabled On Horizontal",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--disabled-on-vertical",
+      "name": "Disabled On Vertical",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--small-off",
+      "name": "Small Off",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--small-off-vertical",
+      "name": "Small Off Vertical",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--small-on",
+      "name": "Small On",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--small-on-vertical",
+      "name": "Small On Vertical",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--large-off",
+      "name": "Large Off",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--large-off-vertical",
+      "name": "Large Off Vertical",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--large-on",
+      "name": "Large On",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--large-on-vertical",
+      "name": "Large On Vertical",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--no-label-off",
+      "name": "No Label Off",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--no-label-on",
+      "name": "No Label On",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--long-label-horizontal",
+      "name": "Long Label Horizontal",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--long-label-vertical",
+      "name": "Long Label Vertical",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--medium-on-horizontal",
+      "name": "Medium On Horizontal",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--medium-on-vertical",
+      "name": "Medium On Vertical",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--short-label",
+      "name": "Short Label",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--short-label-vertical",
+      "name": "Short Label Vertical",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "switch--no-label-on-vertical",
+      "name": "No Label On Vertical",
+      "title": "Switch",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Switch/Switch.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--default",
+      "name": "Default",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--four-digits",
+      "name": "Four Digits",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--six-digits",
+      "name": "Six Digits",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--eight-digits",
+      "name": "Eight Digits",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--with-value",
+      "name": "With Value",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--partial-value",
+      "name": "Partial Value",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--masked",
+      "name": "Masked",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--masked-partial",
+      "name": "Masked Partial",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--masked-six",
+      "name": "Masked Six",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--error",
+      "name": "Error",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--error-masked",
+      "name": "Error Masked",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--disabled",
+      "name": "Disabled",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--disabled-with-value",
+      "name": "Disabled With Value",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--disabled-masked",
+      "name": "Disabled Masked",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--small",
+      "name": "Small",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--medium",
+      "name": "Medium",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--large",
+      "name": "Large",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--small-masked",
+      "name": "Small Masked",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--large-masked",
+      "name": "Large Masked",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--empty",
+      "name": "Empty",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--one-digit",
+      "name": "One Digit",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--three-digits",
+      "name": "Three Digits",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--complete",
+      "name": "Complete",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--with-callback",
+      "name": "With Callback",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--six-digit-otp",
+      "name": "Six Digit OTP",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "pininput--six-digit-empty",
+      "name": "Six Digit Empty",
+      "title": "PinInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/PinInput/PinInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "example-page--default",
+      "name": "Default",
+      "title": "Example/Page",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/pages/Page.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--default",
+      "name": "Default",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--partially-filled",
+      "name": "Partially Filled",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--filled",
+      "name": "Filled",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--four-digit",
+      "name": "Four Digit",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--four-digit-empty",
+      "name": "Four Digit Empty",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--eight-digit",
+      "name": "Eight Digit",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--box-variant",
+      "name": "Box Variant",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--underline-variant",
+      "name": "Underline Variant",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--circle-variant",
+      "name": "Circle Variant",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--underline-empty",
+      "name": "Underline Empty",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--circle-empty",
+      "name": "Circle Empty",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--underline-partial",
+      "name": "Underline Partial",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--circle-partial",
+      "name": "Circle Partial",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--small-size",
+      "name": "Small Size",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--medium-size",
+      "name": "Medium Size",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--large-size",
+      "name": "Large Size",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--small-empty",
+      "name": "Small Empty",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--large-empty",
+      "name": "Large Empty",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--small-underline",
+      "name": "Small Underline",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--large-circle",
+      "name": "Large Circle",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--error-empty",
+      "name": "Error Empty",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--error-filled",
+      "name": "Error Filled",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--error-partial",
+      "name": "Error Partial",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--error-underline",
+      "name": "Error Underline",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--error-circle",
+      "name": "Error Circle",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--success-box",
+      "name": "Success Box",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--success-underline",
+      "name": "Success Underline",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--success-circle",
+      "name": "Success Circle",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--success-large",
+      "name": "Success Large",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--loading-partial",
+      "name": "Loading Partial",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--loading-empty",
+      "name": "Loading Empty",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--disabled-empty",
+      "name": "Disabled Empty",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--disabled-filled",
+      "name": "Disabled Filled",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--disabled-underline",
+      "name": "Disabled Underline",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--masked-filled",
+      "name": "Masked Filled",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--masked-partial",
+      "name": "Masked Partial",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--masked-error",
+      "name": "Masked Error",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--masked-success",
+      "name": "Masked Success",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--masked-disabled",
+      "name": "Masked Disabled",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--masked-circle",
+      "name": "Masked Circle",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--masked-underline-large",
+      "name": "Masked Underline Large",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--alphanumeric-empty",
+      "name": "Alphanumeric Empty",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--alphanumeric-filled",
+      "name": "Alphanumeric Filled",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--alphanumeric-partial",
+      "name": "Alphanumeric Partial",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--alphanumeric-error",
+      "name": "Alphanumeric Error",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--alphanumeric-masked",
+      "name": "Alphanumeric Masked",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--alphanumeric-four-char",
+      "name": "Alphanumeric Four Char",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--grouped-default-separator",
+      "name": "Grouped Default Separator",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--grouped-empty",
+      "name": "Grouped Empty",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--grouped-partial",
+      "name": "Grouped Partial",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--grouped-dash-separator",
+      "name": "Grouped Dash Separator",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--grouped-dot-separator",
+      "name": "Grouped Dot Separator",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--grouped-slash-separator",
+      "name": "Grouped Slash Separator",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--grouped-pairs-of-2",
+      "name": "Grouped Pairs Of 2",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--grouped-alphanumeric",
+      "name": "Grouped Alphanumeric",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--grouped-underline",
+      "name": "Grouped Underline",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--grouped-circle",
+      "name": "Grouped Circle",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--grouped-large",
+      "name": "Grouped Large",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--grouped-error",
+      "name": "Grouped Error",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--grouped-success",
+      "name": "Grouped Success",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--sms-verification",
+      "name": "SMS Verification",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--email-verification",
+      "name": "Email Verification",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--two-factor-auth",
+      "name": "Two Factor Auth",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--invalid-code-error",
+      "name": "Invalid Code Error",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--verified-success",
+      "name": "Verified Success",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--verifying-loading",
+      "name": "Verifying Loading",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--grouped-sms-code",
+      "name": "Grouped SMS Code",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--alphanumeric-redemption-code",
+      "name": "Alphanumeric Redemption Code",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--narrow-container",
+      "name": "Narrow Container",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--wide-container",
+      "name": "Wide Container",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--all-sizes-comparison",
+      "name": "All Sizes Comparison",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--all-variants-comparison",
+      "name": "All Variants Comparison",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "otpinput--all-states-comparison",
+      "name": "All States Comparison",
+      "title": "OTPInput",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/OTPInput/OTPInput.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "example-header--logged-in",
+      "name": "Logged In",
+      "title": "Example/Header",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Header/Header.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "example-header--logged-out",
+      "name": "Logged Out",
+      "title": "Example/Header",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Header/Header.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--default",
+      "name": "Default",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--search-variant",
+      "name": "Search Variant",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--error-variant",
+      "name": "Error Variant",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--offline-variant",
+      "name": "Offline Variant",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--small-size",
+      "name": "Small Size",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--medium-size",
+      "name": "Medium Size",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--large-size",
+      "name": "Large Size",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--with-action",
+      "name": "With Action",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--with-action-search",
+      "name": "With Action Search",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--with-action-error",
+      "name": "With Action Error",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--with-action-offline",
+      "name": "With Action Offline",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--small-with-action",
+      "name": "Small With Action",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--large-with-action",
+      "name": "Large With Action",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--custom-icon-emoji",
+      "name": "Custom Icon Emoji",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--custom-icon-cart",
+      "name": "Custom Icon Cart",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--custom-icon-rocket",
+      "name": "Custom Icon Rocket",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--title-only",
+      "name": "Title Only",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--title-and-description",
+      "name": "Title And Description",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--long-title",
+      "name": "Long Title",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--long-description",
+      "name": "Long Description",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--no-icon-custom-empty",
+      "name": "No Icon Custom Empty",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--search-small-no-action",
+      "name": "Search Small No Action",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--error-large-with-action",
+      "name": "Error Large With Action",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--default-medium-full-content",
+      "name": "Default Medium Full Content",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--offline-large-no-action",
+      "name": "Offline Large No Action",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "emptystate--search-large-with-action",
+      "name": "Search Large With Action",
+      "title": "EmptyState",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/EmptyState/EmptyState.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--default",
+      "name": "Default",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--with-value",
+      "name": "With Value",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--searchable",
+      "name": "Searchable",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--not-searchable",
+      "name": "Not Searchable",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--loading",
+      "name": "Loading",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--disabled",
+      "name": "Disabled",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--disabled-with-value",
+      "name": "Disabled With Value",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--with-disabled-options",
+      "name": "With Disabled Options",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--empty-options",
+      "name": "Empty Options",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--single-option",
+      "name": "Single Option",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--many-options",
+      "name": "Many Options",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--long-labels",
+      "name": "Long Labels",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--countries",
+      "name": "Countries",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--custom-placeholder",
+      "name": "Custom Placeholder",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--long-placeholder",
+      "name": "Long Placeholder",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--with-custom-render",
+      "name": "With Custom Render",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--searchable-with-icons",
+      "name": "Searchable With Icons",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--pre-selected-value",
+      "name": "Pre Selected Value",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--all-options-disabled",
+      "name": "All Options Disabled",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--mixed-disabled",
+      "name": "Mixed Disabled",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--short-labels",
+      "name": "Short Labels",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--numeric-labels",
+      "name": "Numeric Labels",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--with-callback",
+      "name": "With Callback",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--different-sizes",
+      "name": "Different Sizes",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "combobox--priority",
+      "name": "Priority",
+      "title": "Combobox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Combobox/Combobox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--unchecked-horizontal",
+      "name": "Unchecked Horizontal",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--unchecked-vertical",
+      "name": "Unchecked Vertical",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--checked-horizontal",
+      "name": "Checked Horizontal",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--checked-vertical",
+      "name": "Checked Vertical",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--disabled-unchecked-horizontal",
+      "name": "Disabled Unchecked Horizontal",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--disabled-unchecked-vertical",
+      "name": "Disabled Unchecked Vertical",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--disabled-checked-horizontal",
+      "name": "Disabled Checked Horizontal",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--disabled-checked-vertical",
+      "name": "Disabled Checked Vertical",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--small-unchecked",
+      "name": "Small Unchecked",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--small-unchecked-vertical",
+      "name": "Small Unchecked Vertical",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--small-checked",
+      "name": "Small Checked",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--small-checked-vertical",
+      "name": "Small Checked Vertical",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--large-unchecked",
+      "name": "Large Unchecked",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--large-unchecked-vertical",
+      "name": "Large Unchecked Vertical",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--large-checked",
+      "name": "Large Checked",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--large-checked-vertical",
+      "name": "Large Checked Vertical",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--no-label-unchecked",
+      "name": "No Label Unchecked",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--no-label-checked",
+      "name": "No Label Checked",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--long-label-horizontal",
+      "name": "Long Label Horizontal",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--long-label-vertical",
+      "name": "Long Label Vertical",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--medium-checked-horizontal",
+      "name": "Medium Checked Horizontal",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--medium-checked-vertical",
+      "name": "Medium Checked Vertical",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--short-label",
+      "name": "Short Label",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--short-label-vertical",
+      "name": "Short Label Vertical",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "checkbox--no-label-checked-vertical",
+      "name": "No Label Checked Vertical",
+      "title": "Checkbox",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Checkbox/Checkbox.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--primary",
+      "name": "Primary",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--secondary",
+      "name": "Secondary",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--large",
+      "name": "Large",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--small",
+      "name": "Small",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--primary-small",
+      "name": "Primary Small",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--primary-medium",
+      "name": "Primary Medium",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--primary-large",
+      "name": "Primary Large",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--secondary-small",
+      "name": "Secondary Small",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--secondary-medium",
+      "name": "Secondary Medium",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--secondary-large",
+      "name": "Secondary Large",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--custom-background-red",
+      "name": "Custom Background Red",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--custom-background-green",
+      "name": "Custom Background Green",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--custom-background-purple",
+      "name": "Custom Background Purple",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--custom-background-orange",
+      "name": "Custom Background Orange",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--long-label",
+      "name": "Long Label",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--very-long-label",
+      "name": "Very Long Label",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--short-label",
+      "name": "Short Label",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--single-character",
+      "name": "Single Character",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--with-emoji",
+      "name": "With Emoji",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--with-multiple-emoji",
+      "name": "With Multiple Emoji",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--numeric-label",
+      "name": "Numeric Label",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--mixed-case-label",
+      "name": "Mixed Case Label",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--all-caps-label",
+      "name": "All Caps Label",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--lowercase-label",
+      "name": "Lowercase Label",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--small-custom-background",
+      "name": "Small Custom Background",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "button--large-custom-background",
+      "name": "Large Custom Background",
+      "title": "Button",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Button/Button.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--default-circle",
+      "name": "Default Circle",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--default-circle-vertical",
+      "name": "Default Circle Vertical",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--small-circle",
+      "name": "Small Circle",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--small-circle-vertical",
+      "name": "Small Circle Vertical",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--medium-circle",
+      "name": "Medium Circle",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--medium-circle-vertical",
+      "name": "Medium Circle Vertical",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--large-circle",
+      "name": "Large Circle",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--large-circle-vertical",
+      "name": "Large Circle Vertical",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--x-large-circle",
+      "name": "X Large Circle",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--x-large-circle-vertical",
+      "name": "X Large Circle Vertical",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--square-small",
+      "name": "Square Small",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--square-small-vertical",
+      "name": "Square Small Vertical",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--square-medium",
+      "name": "Square Medium",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--square-medium-vertical",
+      "name": "Square Medium Vertical",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--rounded-small",
+      "name": "Rounded Small",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--rounded-small-vertical",
+      "name": "Rounded Small Vertical",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--rounded-medium",
+      "name": "Rounded Medium",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--rounded-medium-vertical",
+      "name": "Rounded Medium Vertical",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--custom-color",
+      "name": "Custom Color",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--custom-color-vertical",
+      "name": "Custom Color Vertical",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--green-background",
+      "name": "Green Background",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--purple-background",
+      "name": "Purple Background",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--single-letter",
+      "name": "Single Letter",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--three-letters",
+      "name": "Three Letters",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    },
+    {
+      "type": "story",
+      "subtype": "story",
+      "id": "avatar--orange-background",
+      "name": "Orange Background",
+      "title": "Avatar",
+      "importPath": "./src/components/../../../C:/Users/paxa2/rn/repack/src/components/Avatar/Avatar.stories.tsx",
+      "tags": [
+        "story"
+      ]
+    }
+  ]
+}
