@@ -76,6 +76,3 @@ yarn-error.log
 
 *storybook.log
 storybook-static
-
-/ios
-/android
