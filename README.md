@@ -95,3 +95,26 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+## Generating production builds
+
+To generate a production build, for instance to Android, you can run the following command:
+
+```sh
+npm run android:release
+```
+
+Then, run the following commands to generate the apk file:
+
+```sh
+cd android
+./gradlew assembleRelease
+```
+
+### Clean builds
+
+To clean the build artifacts, you can run the following command for Android:
+
+```sh
+./gradlew clean
+```
